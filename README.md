@@ -44,8 +44,10 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
 
 ## Output
-![alt text](<img 1-1.png>)
-![alt text](<img 2.png>)
+![6 1](https://github.com/DHIVYA050430/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/147141546/5e724ed5-0c6f-4c2a-8e92-fb02f5de74eb)
+![6 2](https://github.com/DHIVYA050430/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/147141546/1ad9ec03-1228-4e67-8cfc-f5769dbd7064)
+
+
 ### Name:DIVYA E
 ### Register Number:212223230050
 
